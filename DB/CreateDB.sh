@@ -1,0 +1,1 @@
+mysql --host=localhost --user=root --password=abc123  < "./DB/SinglePosDB.sql"
