@@ -1,0 +1,6 @@
+#Listar los Remotes y Destination
+git remote -v
+
+#Elimina Remote Origin
+git remote rm origin
+
